@@ -28,7 +28,6 @@ data/raw/poa_2021/
 data/raw/2021_GCP_POA_for_NSW_short-header/
 
 # Large HTML files (will be generated via scripts)
-index.html
 output/*.html
 
 # Jupyter
