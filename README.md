@@ -6,9 +6,9 @@ An analysis and visualization of firearms ownership data across New South Wales 
 
 ## Live Demo
 
-🗺️ **[View the project page](https://malone-c.github.io/nsw-firearms/)**
+🗺️ **[View Interactive Map](https://malone-c.github.io/nsw-firearms/map.html)** | **[Project Page](https://malone-c.github.io/nsw-firearms/)**
 
-The landing page includes project statistics and links to the repository. The full interactive choropleth map can be generated locally using the provided scripts.
+The interactive choropleth map shows firearms ownership rates across all 611 NSW postcodes with zoom, pan, and detailed tooltips. Click on any postcode to see its statistics.
 
 ## Overview
 
